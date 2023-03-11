@@ -1,14 +1,16 @@
 # notes-making-app
-Dictionary App This is a web-based dictionary app that allows users to look up definitions for English words. The app was created using HTML, CSS, and JavaScript. 
+This is a web-based notes-making app that allows users to create, edit, and delete notes. The app was created using HTML, CSS, and JavaScript. 
 
 
 
 Features
 
-1.Search for the definition of a word
+1.Create a new note
 
-2.View the definition of a word
+2.Edit an existing note
 
-3.Save words to a list for future reference
+3.Delete a note
 
-4.Clear the saved words list
+4.View all notes in a list
+
+5.Save notes to local storage
