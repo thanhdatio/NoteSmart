@@ -13,7 +13,7 @@ let isUpdate = false, updateId;
 
 addBox.addEventListener("click", () => {
     popupTitle.innerText = "Thêm ghi chú";
-    addBtn.innerText = "Thêm ghi chú";
+    addBtn.innerText = "Thêm";
     popupBox.classList.add("show");
     document.querySelector("body").style.overflow = "hidden";
     if(window.innerWidth > 660) titleTag.focus();
